@@ -1,0 +1,8 @@
+
+name: email_triage_env
+description: Real-world email triage simulation
+version: 1.0
+tasks:
+  - easy
+  - medium
+  - hard
